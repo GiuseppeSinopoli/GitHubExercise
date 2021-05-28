@@ -6,6 +6,7 @@ __pycache__/
 # C extensions
 *.so
 
+# Tampering with the gitignor file
 # Distribution / packaging
 .Python
 build/
