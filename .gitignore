@@ -6,6 +6,7 @@ __pycache__/
 # C extensions
 *.so
 
+# Should I be tampering with stuff in here?
 # Distribution / packaging
 .Python
 build/
